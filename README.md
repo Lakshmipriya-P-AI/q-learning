@@ -105,27 +105,18 @@ def q_learning(env, gamma=1.0, init_alpha=0.5,
 
 ## OUTPUT:
 
-#### OPTIMAL STATE VALUE FUNCTIONS:
-<img width="553" alt="image" src="https://github.com/Aashima02/q-learning/assets/93427086/2ef00fe5-26ab-4f70-ae86-7d89f14f3e25">
+#### OPTIMAL VALUE FUNCTIONS:
+![image](https://github.com/Lakshmipriya-P-AI/q-learning/assets/93427923/78d10486-098b-4ccc-996b-d24abe84c14f)
 
-
-#### OPTIMAL ACTION VALUE FUNCTION:
-
-
-<img width="553" alt="image" src="https://github.com/Aashima02/q-learning/assets/93427086/22a8387f-b4c9-4464-975f-02a7f05e37d8">
 
 #### STATE VALUE FUNCTION OF MONTE CARLO METHOD:
 
-<img width="553" alt="image" src="https://github.com/Aashima02/q-learning/assets/93427086/5db347aa-c41d-4be6-b353-60fc886177e3">
+![image](https://github.com/Lakshmipriya-P-AI/q-learning/assets/93427923/68bb615a-fcc5-4d30-9704-ea47fd958d19)
+
 
 #### STATE VALUE FUNCTION OF Q-LEARNING METHOD:
+![image](https://github.com/Lakshmipriya-P-AI/q-learning/assets/93427923/4988ce4b-9c47-4c8c-8bdd-40db2fa117a7)
 
-<img width="551" alt="image" src="https://github.com/Aashima02/q-learning/assets/93427086/ddc98542-4af1-4d71-a325-2905bab69fd8">
-
-
-## RESULT:
-
-Thus, Q-Learning outperformed Monte Carlo in finding the optimal policy and state values for the RL problem.
 ## RESULT:
 
 Thus, Q-Learning outperformed Monte Carlo in finding the optimal policy and state values for the RL problem.
